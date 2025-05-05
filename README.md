@@ -4,7 +4,7 @@ A modern, responsive **Password Generator** built using **React** and **Vite**. 
 
 ## 🚀 Live Demo
 
-👉 [View the App](https://hariom0.github.io/passwordGenerator/  
+👉 [View the App](https://hariom0.github.io/passwordGenerator/ ) 
 
 ---
 
